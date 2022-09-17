@@ -5,8 +5,8 @@
  * Escriba un programa que lea el precio de un producto y muestre el precio
  * total con el iva (19%) del producto
  */
- using namespace std;
- 
+using namespace std;
+
 int main() {
 	int precioProducto;
 	const int IVA = 19;
